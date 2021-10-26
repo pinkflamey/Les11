@@ -17,3 +17,31 @@ p {
     font-family: Monospace, sans-serif;
     color: black;
 }
+img {
+    border: rgb(255, 184, 196) 5px double;
+}
+
+.cheat-r {
+    background-color: red;
+    border: rgb(235, 154, 168) 5px solid;
+}
+.cheat-o {
+    background-color: orange;
+    border: rgb(235, 154, 168) 5px solid;
+}
+.cheat-y {
+    background-color: yellow;
+    border: rgb(235, 154, 168) 5px solid;
+}
+.cheat-g {
+    background-color: greenyellow;
+    border: rgb(235, 154, 168) 5px solid;
+}
+.cheat-b {
+    background-color: blue;
+    border: rgb(235, 154, 168) 5px solid;
+}
+.cheat-p {
+    background-color: purple;
+    border: rgb(235, 154, 168) 5px solid;
+}
