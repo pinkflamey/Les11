@@ -1,0 +1,46 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: red;
+}
+
+.div1 {
+    background-color: blanchedalmond;
+    border: black 10px double;
+    color:brown;
+
+    box-sizing: border-box;
+    position: absolute;
+
+    width: 200px;
+    left: 100px;
+    top: 100px;
+}
+
+.div2 {
+    background-color:rgb(250, 211, 164);
+    border: black 10px solid;
+    color: rebeccapurple;
+
+    box-sizing: border-box;
+    position: absolute;
+
+    width: 200px;
+    left: 400px;
+    top: 200px;
+}
+
+.div3 {
+    background-color: rgb(255, 201, 121);
+    border: black 10px double;
+    color: royalblue;
+
+    box-sizing: border-box;
+    position: absolute;
+
+    width: 200px;
+    left: 700px;
+    top: 400px;
+}
